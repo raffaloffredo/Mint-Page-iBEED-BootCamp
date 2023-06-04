@@ -18,7 +18,7 @@ export default function Home(){
 
   // Campos a Serem Personalizados
     const nameProjet = "Weird Giraffes by Raffa Loffredo"  // Nome do seu Projeto
-    const { contract } = useContract("0xE21964C19fb32f02e474ae83b126B87E6D1C2301") // Endereço da sua Coleção
+    const { contract } = useContract("0x47079e937Abdb0546dFcd79269A070Afbc3adc83") // Endereço da sua Coleção
     const tokenId = 0 // Token ID que você quer liberar o Mint
   // -------------------------------
 

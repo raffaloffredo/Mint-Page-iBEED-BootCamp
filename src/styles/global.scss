@@ -30,11 +30,12 @@ p, h1, h2, h3, ul, li{
   color: white;
 }
 
-body, input, textarea, select, button{
-  font: 400 1rem 'Poppins', sans-serif;
+body, input, textarea, select {
+  font: 12px 'Poppins', sans-serif;
 }
 
 button{
+  font: 16px 'Poppins', sans-serif;
   cursor: pointer;
 }
 
